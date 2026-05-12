@@ -35,10 +35,10 @@ CS student at FAST Islamabad, graduating 2026.
 
 ### Projects
 
-[![RoomMind](https://github-readme-stats.vercel.app/api/pin/?username=Usman-Khan49&repo=2D-aiverse&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=7ee787)](https://github.com/Usman-Khan49/roommind)
-[![VoxaAI](https://github-readme-stats.vercel.app/api/pin/?username=Usman-Khan49&repo=Voxa-ai&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=7ee787)](https://github.com/Usman-Khan49/voxa-ai)
+[![2D-aiverse](https://github-readme-stats-five-wine-5ba3tnamzu.vercel.app/api/pin/?username=Usman-Khan49&repo=2D-aiverse&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=7ee787)](https://github.com/Usman-Khan49/2D-aiverse)
+[![Voxa-ai](https://github-readme-stats-five-wine-5ba3tnamzu.vercel.app/api/pin/?username=Usman-Khan49&repo=Voxa-ai&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=7ee787)](https://github.com/Usman-Khan49/Voxa-ai)
 
-[![Libaayah](https://github-readme-stats.vercel.app/api/pin/?username=Usman-Khan49&repo=libaayah-store&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=7ee787)](https://github.com/Usman-Khan49/libaayah-store)
+[![libaayah-store](https://github-readme-stats-five-wine-5ba3tnamzu.vercel.app/api/pin/?username=Usman-Khan49&repo=libaayah-store&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=7ee787)](https://github.com/Usman-Khan49/libaayah-store)
 
 ---
 
@@ -46,11 +46,11 @@ CS student at FAST Islamabad, graduating 2026.
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Usman-Khan49&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=7ee787&count_private=true)
+![Stats](https://github-readme-stats-five-wine-5ba3tnamzu.vercel.app/api?username=Usman-Khan49&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=7ee787&count_private=true)
 
 ![Streak](https://streak-stats.demolab.com?user=Usman-Khan49&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=ff4d6d&currStreakLabel=7ee787)
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Usman-Khan49&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=6)
+![Languages](https://github-readme-stats-five-wine-5ba3tnamzu.vercel.app/api/top-langs/?username=Usman-Khan49&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=6)
 
 </div>
 
