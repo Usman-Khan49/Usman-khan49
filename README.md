@@ -35,8 +35,8 @@ CS student at FAST Islamabad, graduating 2026.
 
 ### Projects
 
-[![RoomMind](https://github-readme-stats.vercel.app/api/pin/?username=Usman-Khan49&repo=2d-aiverse&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=7ee787)](https://github.com/Usman-Khan49/roommind)
-[![VoxaAI](https://github-readme-stats.vercel.app/api/pin/?username=Usman-Khan49&repo=voxa-ai&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=7ee787)](https://github.com/Usman-Khan49/voxa-ai)
+[![RoomMind](https://github-readme-stats.vercel.app/api/pin/?username=Usman-Khan49&repo=2D-aiverse&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=7ee787)](https://github.com/Usman-Khan49/roommind)
+[![VoxaAI](https://github-readme-stats.vercel.app/api/pin/?username=Usman-Khan49&repo=Voxa-ai&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=7ee787)](https://github.com/Usman-Khan49/voxa-ai)
 
 [![Libaayah](https://github-readme-stats.vercel.app/api/pin/?username=Usman-Khan49&repo=libaayah-store&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=7ee787)](https://github.com/Usman-Khan49/libaayah-store)
 
