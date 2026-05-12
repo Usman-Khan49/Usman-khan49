@@ -38,6 +38,7 @@ CS student at FAST Islamabad, graduating 2026.
 [![2D-aiverse](https://github-readme-stats-five-wine-5ba3tnamzu.vercel.app/api/pin/?username=Usman-Khan49&repo=2D-aiverse&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=7ee787)](https://github.com/Usman-Khan49/2D-aiverse)
 [![Voxa-ai](https://github-readme-stats-five-wine-5ba3tnamzu.vercel.app/api/pin/?username=Usman-Khan49&repo=Voxa-ai&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=7ee787)](https://github.com/Usman-Khan49/Voxa-ai)
 [![secure-messaging](https://github-readme-stats-five-wine-5ba3tnamzu.vercel.app/api/pin/?username=Usman-Khan49&repo=E2EE-SecureMessaging&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=7ee787)](https://github.com/Usman-Khan49/E2EE-SecureMessaging)
+[![PCoptimization](https://github-readme-stats-five-wine-5ba3tnamzu.vercel.app/api/pin/?username=Usman-Khan49&repo=PcOptimizationTool&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=7ee787)](https://github.com/Usman-Khan49/PcOptimizationTool)
 [![libaayah-store](https://github-readme-stats-five-wine-5ba3tnamzu.vercel.app/api/pin/?username=Usman-Khan49&repo=libaayah-store&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=7ee787)](https://github.com/Usman-Khan49/libaayah-store)
 
 ---
